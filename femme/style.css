@@ -1,0 +1,78 @@
+@font-face {
+    src: url(fonts/LovtonyRegular-YzV5O.ttf);
+    font-family: lov;
+}
+
+@font-face {
+    src: url(fonts/compressed.otf);
+    font-family: sign;
+}
+
+body {
+    background-color: floralwhite;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 24px;
+    line-height: 15px;
+    font-family: sign;
+    color: #834234;
+}
+
+
+.bow {
+    width: 32%;
+    height: 20;
+    margin-left: auto;
+    margin-right: auto;
+  
+
+  }
+
+p {
+    text-align: center;
+    font-size: 100px;
+    line-height: 15px;
+    font-family: lov;
+}
+
+
+.project_image {
+
+    width: 32%;
+    float: center;
+    width:  300px;
+    height: 600px;
+    object-fit: cover;
+    padding: 20px;
+   
+}
+
+.heading3 {
+    width: 32%;
+    float: center;
+    width:  300px;
+    height: 600px;
+    object-fit: cover;
+    padding: 20px;
+}
+
+.btn {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: none;
+    background: #834234;
+    color: white;
+    font-family: lov;
+    font-size: 65px;
+    font-weight: 500;
+    line-height: 1;
+  }
+
+
+
+
+
